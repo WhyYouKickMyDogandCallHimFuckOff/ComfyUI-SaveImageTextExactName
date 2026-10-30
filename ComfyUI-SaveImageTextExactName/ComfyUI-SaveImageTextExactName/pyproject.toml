@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-saveimagetextexactname"
+description = "Save an image and matching .txt file with an exact filename - no serial numbers."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/WhyYouKickMyDogandCallHimFuckOff/ComfyUI-SaveImageTextExactName"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Save Image + Text (Exact Name)"
+Icon = ""
